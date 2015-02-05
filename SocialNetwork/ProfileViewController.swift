@@ -4,6 +4,7 @@ import Snap
 
 class ProfileViewController :UIViewController, UIActionSheetDelegate , UIImagePickerControllerDelegate, UINavigationControllerDelegate, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout{
 
+//    var feedsController :MyListViewController!;
 
     var header :UILabel!;
     var followerHeader :UILabel!;
@@ -22,6 +23,15 @@ class ProfileViewController :UIViewController, UIActionSheetDelegate , UIImagePi
     var dataArray = NSMutableArray()
     var imageUrl  = NSMutableArray()
     var countOfRecieved = 0;
+
+    override init(){
+        super.init()
+}
+    
+
+    required init(coder aDecoder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
 
     func createGalleryView()->UICollectionView{
         var layout = UICollectionViewFlowLayout()
@@ -194,6 +204,9 @@ class ProfileViewController :UIViewController, UIActionSheetDelegate , UIImagePi
 
     override func viewDidLoad() {
         super.viewDidLoad();
+
+        var f = Feed()
+        f.newPosts()
 
         self.header = UILabel()
         self.header.textColor = UIColor.blackColor()

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E006FAEA618DFA86D599EB65"
+               BlueprintIdentifier = "C7B4E623AE4ED49076833AF2"
                BuildableName = "Snap.framework"
                BlueprintName = "Pods-SocialNetwork-Snap"
                ReferencedContainer = "container:Pods.xcodeproj">

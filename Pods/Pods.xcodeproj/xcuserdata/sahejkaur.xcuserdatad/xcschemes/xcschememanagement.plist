@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-SocialNetwork-SVPullToRefresh.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-SocialNetwork-Snap.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,27 +37,32 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0A2B18698FAA770CE284BCC1</key>
+		<key>1B3A16049139791836ABAB53</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0BF30334E1CF7874324EA4CC</key>
+		<key>753E0EC27D89D5E5C75787B0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BB384CE46753BD7E38449DFA</key>
+		<key>87649BF3F2F915B5D82CD191</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CAC6F991CCE761E1CB254BA7</key>
+		<key>885580624ACAAB2E814C88F9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E006FAEA618DFA86D599EB65</key>
+		<key>C7B4E623AE4ED49076833AF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EA5AD398F46199AFF86E9BF7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -46,9 +46,11 @@ code_sign() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'JSONModel.framework'
+  install_framework 'SVPullToRefresh.framework'
   install_framework 'Snap.framework'
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'JSONModel.framework'
+  install_framework 'SVPullToRefresh.framework'
   install_framework 'Snap.framework'
 fi

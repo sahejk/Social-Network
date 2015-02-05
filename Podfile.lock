@@ -2,11 +2,13 @@ PODS:
   - JSONModel (1.0.2)
   - Kiwi (2.3.1)
   - Snap (0.0.3)
+  - SVPullToRefresh (0.4.1)
 
 DEPENDENCIES:
   - JSONModel
   - kiwi
   - Snap (from `https://github.com/Masonry/Snap.git`)
+  - SVPullToRefresh
 
 EXTERNAL SOURCES:
   Snap:
@@ -21,5 +23,6 @@ SPEC CHECKSUMS:
   JSONModel: cbdef0fdff1cc70e913a860861d3072860efd3a1
   Kiwi: 73e1400209055ee9c8ba78c6012b6b642d0fb9f7
   Snap: f6034910cfcaa4b5b565a681804a82704a234bb4
+  SVPullToRefresh: d5161ebc833a38b465364412e5e307ca80bbb190
 
 COCOAPODS: 0.36.0.beta.1
