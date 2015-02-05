@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F0CAD3A-5400-42A1-B628-E038E4E913C8</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1DA660FEA9215FE7F16BAFED67B0837818EDB13D</key>
+		<string>https://github.com/AtlasWayfinder/atlas-auditor-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1DA660FEA9215FE7F16BAFED67B0837818EDB13D</key>
+		<string>atlas-auditor-iOS/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AtlasWayfinder/atlas-auditor-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1DA660FEA9215FE7F16BAFED67B0837818EDB13D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DA660FEA9215FE7F16BAFED67B0837818EDB13D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>atlas-auditor-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
